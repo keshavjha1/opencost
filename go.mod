@@ -12,6 +12,7 @@ require (
 	github.com/Azure/go-autorest/autorest v0.11.27
 	github.com/Azure/go-autorest/autorest/adal v0.9.18
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.3
 	github.com/aws/aws-sdk-go v1.28.9
 	github.com/aws/aws-sdk-go-v2 v1.13.0
 	github.com/aws/aws-sdk-go-v2/config v1.13.1
@@ -41,7 +42,7 @@ require (
 	github.com/rs/cors v1.7.0
 	github.com/rs/zerolog v1.26.1
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.9
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.8.1
 	go.etcd.io/bbolt v1.3.5
 	golang.org/x/exp v0.0.0-20220609121020-a51bd0440498
@@ -64,7 +65,6 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/Azure/go-autorest/logger v0.2.1 // indirect
 	github.com/Azure/go-autorest/tracing v0.6.0 // indirect
-	github.com/aliyun/alibaba-cloud-sdk-go v1.62.3 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.2.0 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.10.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.4 // indirect
@@ -96,7 +96,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/imdario/mergo v0.3.5 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
 	github.com/klauspost/compress v1.13.5 // indirect
